@@ -1,0 +1,9 @@
+h1 {
+  font-size: 70px;
+  color: maroon;
+}
+
+p {
+  text-indent: 50px;
+  text-transform: capitalize;
+}

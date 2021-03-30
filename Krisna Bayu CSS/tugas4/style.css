@@ -1,0 +1,12 @@
+h1 {
+	font-family: Arial;
+	font-size: 100px;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: bold;
+}
+
+p {
+	font-family: Times new roman, serif;
+	line-height: 50px;
+}
